@@ -21,3 +21,19 @@ header section:nth-child(2){
     grid-template-columns:repeat(8 ,27px);
    
 }
+.list{
+    position: relative;
+
+}
+.list1{
+    position: absolute;
+    bottom: 80px;
+    left: 10px;
+}
+
+.list2{
+    position: absolute;
+    right: 10px;
+    bottom: 80px;
+    margin: auto;
+}
